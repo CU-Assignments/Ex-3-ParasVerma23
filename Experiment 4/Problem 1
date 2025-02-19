@@ -148,29 +148,14 @@ public class EmployeeManagementSystem {
 }
 
 Output:
-Card Collection Management
-1. Add Card
-2. Find Cards by Suit
-3. Display All Cards
-4. Exit
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Display All Employees
+6. Exit
 Enter your choice: 1
-Enter rank of card (e.g., Ace, 2, 3, ...): 2
-Enter suit of card (e.g., Hearts, Spades, Diamonds, Clubs): heart
-Card added successfully.
-
-Card Collection Management
-1. Add Card
-2. Find Cards by Suit
-3. Display All Cards
-4. Exit
-Enter your choice: 3
-All cards in the collection:
-2 of heart
-
-Card Collection Management
-1. Add Card
-2. Find Cards by Suit
-3. Display All Cards
-4. Exit
-Enter your choice:
-PS C:\Users\student\Desktop\java> 
+Enter employee ID: 10639
+Enter employee name: Paras
+Enter employee salary: 1000000
